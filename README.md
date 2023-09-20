@@ -8,5 +8,5 @@ Takes a list of shakespearean adjectives from 'InsultsSource.txt' and prints 100
 
 To Run: 
 1. navigate to InsultGenerator folder in terminal
-2. g++ TestInsultGenerator.cpp insultgenerator.cpp
-3. ./a.out
+2. g++ TestInsultGenerator.cpp insultgenerator.cpp -o test
+3. ./test
