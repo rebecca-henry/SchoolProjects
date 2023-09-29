@@ -1,0 +1,21 @@
+Jumble Puzzle
+
+CISC320 - Fundamentals of Software Development
+
+To run
+- open terminal
+- navigate to JumblePuzzle directory
+- g++ JumblePuzzle.cpp testJumble.cpp -o testjumble
+- ./testjumble
+- use ctrl c to quit on mac // cmd c windows
+
+Main focuses/learning outcomes
+- logic of a word search
+- implenting rule of 3 (preventing seg faults)
+- utiilizing pointers to pointers
+- preventing unwanted aliasing
+
+Next Steps 
+- build a GUI
+- make instructions clearer
+- more testing on accessors
