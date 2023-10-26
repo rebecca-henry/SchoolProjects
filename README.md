@@ -16,3 +16,8 @@ Takes a list of shakespearean adjectives from 'InsultsSource.txt' and prints 100
 For CISC320 - Fundamentals Of Software Development
 
 Creates a word search based on a given word (3-10 letters) and difficulty level (easy, medium, hard)
+
+# Fraction Calculator (cpp)
+For CISC320 - Fundamentals Of Software Development
+
+Performs mathematical operations on fractions
