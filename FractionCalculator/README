@@ -1,0 +1,12 @@
+Fraction Calculator
+For CISC320 Fundamentals Of Software Development
+
+FractionTest performs a variety of mathematical operations on fractions
+
+To Run:
+
+navigate to FractionCalculator folder in terminal
+g++ FractionTest.cpp fraction.cpp -o test
+./test
+
+You will see all the tests run and their expected result vs the real result
